@@ -4,7 +4,7 @@ I'm a student at PSPU majoring in Information Systems and Technologies, currentl
 
 ## My Skills and Technologies
 - **Programming Languages**: Python, Java, C#
-- **Technologies**: SQL, Git, Docker, IntelliJ IDEA, VSCode
+- **Technologies**: SQL, Docker, IntelliJ IDEA, VSCode
 - **Basic Skills**: Linux, VirtualBox
 
 ## Projects and Experience
