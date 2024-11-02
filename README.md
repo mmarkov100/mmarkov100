@@ -3,8 +3,8 @@
 I'm a student at PSPU majoring in Information Systems and Technologies, currently developing my skills in Java programming and exploring the world of software development.
 
 ## My Skills and Technologies
-- **Programming Languages**: Python, Java, C#, Dart
-- **Technologies**: SQL, Git, Docker, IntelliJ IDEA, VSCode, Flutter
+- **Programming Languages**: Python, Java, C#
+- **Technologies**: SQL, Git, Docker, IntelliJ IDEA, VSCode
 - **Basic Skills**: Linux, VirtualBox
 
 ## Projects and Experience
