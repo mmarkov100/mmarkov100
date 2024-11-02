@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello! 👋 I'm Max Markov
 
-<!--
-**mmarkov100/mmarkov100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student at PSPU majoring in Information Systems and Technologies, currently developing my skills in Java programming and exploring the world of software development.
 
-Here are some ideas to get you started:
+## My Skills and Technologies
+- **Programming Languages**: Python, Java, C#, Dart
+- **Technologies**: SQL, Git, Docker, IntelliJ IDEA, VSCode, Flutter
+- **Basic Skills**: Linux, VirtualBox
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects and Experience
+- **Game Jam** — team manager and artist; created visual concepts and managed team workflow. The game - [https://eclipsense.itch.io/global-flood]
+
+## Open to New Opportunities
+I'm looking for an internship to kickstart my IT career, especially in Java development projects.
+
+## Let's Connect
+- Email: [markovmks@yandex.ru]
+- Telegram: [https://t.me/markovmks]
