@@ -10,6 +10,7 @@ I'm a student at PSPU majoring in Information Systems and Technologies, currentl
 
 ## Projects and Experience
 - **Game Jam** — team manager and artist; created visual concepts and managed team workflow. The game - [https://eclipsense.itch.io/global-flood]
+- **Coffee Next** — The developer. The game is created On gamemaker engine. The game - [https://eclipsense.itch.io/global-flood]
 
 ## Open to New Opportunities
 I'm looking for an internship to kickstart my IT career, especially in Java development projects.
